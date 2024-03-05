@@ -1,0 +1,3 @@
+class abdul{
+    pvsm();
+}
